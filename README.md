@@ -1,6 +1,6 @@
 # EXCEL PROJECTS
 ## **$\color{GreenYellow}{\textsf{List:}}$**
-- [Grade Pilot](https://github.com/Kyros0718/Excel_Projects/tree/main/Grade_Pilot) — Autonomous Grade Tracking, Forecasting, and Planning
+- [**𝗚𝗿𝗮𝗱𝗲 𝗣𝗶𝗹𝗼𝘁**](https://github.com/Kyros0718/Excel_Projects/tree/main/Grade_Pilot) — Autonomous Grade Tracking, Forecasting, and Planning
 
 
 ## **$\color{GreenYellow}{\textsf{Gallery:}}$**
