@@ -2,8 +2,24 @@
 
 <table>
   <tr>
+    <td width="950px" align="left">
+      <b>
+       𝟯. 𝗗𝗔𝗧𝗔 𝗖𝗟𝗘𝗔𝗡𝗜𝗡𝗚 & 𝗙𝗜𝗟𝗧𝗘𝗥𝗜𝗡𝗚
+      </b>
+    </td>
+    <td width="50px" align="right">
+      <a href="LINK-TO-#table-of-contents"><b>
+       𝗧𝗢𝗖
+      </b></a>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
     <td width="500px" align="left">
-      <a href="https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/README.md">⬅️ Main Page</a>  
+      <a href="https://github.com/Kyros0718/Excel_Projects/tree/main/Grade_Pilot">⬅️ Main Page</a>  
     </td>
     <td width="500px" align="right">
       <a href="https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md">Back End ➡️</a>
