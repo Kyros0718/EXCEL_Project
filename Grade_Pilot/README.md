@@ -1,5 +1,5 @@
 # GRADE PILOT
-> Autonomous Grade Tracking, Forecasting, and Planning — all in Excel
+> Excel: Autonomous Grade Tracking, Forecasting, and Planning
 <div align="center">
   <img src=https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/Grade%20Pilot%20Representation.png width=400>
 </div>
