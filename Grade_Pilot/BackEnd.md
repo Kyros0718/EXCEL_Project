@@ -1,5 +1,8 @@
 # Back End of Grade Pilot
-<img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/backEndColorKeys.png>
+
+<div align="center">
+<img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/backendcolorschemes.png width=400>
+</div>
 
 ## $\color{GreenYellow}{\textsf{COLOR SCHEMES:}}$
 - Every colored cell contains embedded formulas tied to its specific function.
@@ -14,12 +17,12 @@
 > 
 > ✅ Designed to be easy to resize—just drag to include all rows
 > 
-> <img src=https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/blockRangeGradeBookTable.png >
+> <img src=https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/blockRangeGradeBookTable.png >
 
 ## Automatic Required Average Percentage per Generated Category
 > Shows how much % each category must contribute to reach "Desired Grade"
 > 
-> <img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/desiredPercentage.png>
+> <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/desiredPercentage.png>
 
 
 ## Automatic Category Recognition & Generation
@@ -27,26 +30,26 @@
 >
 >🧩 Detects the first word of each assignment to generate its corresponding category
 >
-><img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/assignementCategoryGenerator.png>
+><img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/assignementCategoryGenerator.png>
 
 ## Automatic Average Score Calculation per Generatorated Category
 > Computes total average points earned from all assignment corresponding to their categegory
 >
-> <img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/avgScoreGenerator.png>
+> <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/avgScoreGenerator.png>
 
 ## Average Numerical Grade Estimation
 > Calculates your total earned score and total possible points
 >
-> <img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/totalScoreAndPoints.png>
+> <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/totalScoreAndPoints.png>
 
 ## Average Letter Grade Estimation
 > Converts numerical score into letter grade using inputed grade scale
 >
-> <img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/letterGradeEstimation.png>
+> <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/letterGradeEstimation.png>
 
 ## Automatic Reverse Grade Calculator
 > Enter a target letter grade
 > 
 > Calculates required scores on future assignments to meet that grade
 >
-> <img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/reverseScoreCalculator.png>
+> <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/reverseScoreCalculator.png>
