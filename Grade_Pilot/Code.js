@@ -103,32 +103,37 @@
 
 
 =LET(
+     buttonToggle, I53,
      dataGradebookTable, INDIRECT(A52),
-          rowLabels, IFERROR(TEXTBEFORE(INDEX(dataGradebookTable,,1), " "), ""),
-          rowPoints, INDEX(dataGradebookTable,, COLUMNS(dataGradebookTable)),
-          rowScores, INDEX(dataGradebookTable,, COLUMNS(dataGradebookTable) - 1),
-     percentageLabel, D43:E47,
-          percentageList, INDEX(percentageLabel,,1),
-          labelList, INDEX(percentageLabel,,2),
+     rowLabels, IFERROR(TEXTBEFORE(INDEX(dataGradebookTable,,1), " "), ""),
+     rowPoints, INDEX(dataGradebookTable,, COLUMNS(dataGradebookTable)),
+     rowScores, INDEX(dataGradebookTable,, COLUMNS(dataGradebookTable) - 1),
 
-     BYROW(dataGradebookTable, 
-          LAMBDA(row,
-               LET(
-                    label, IFERROR(TEXTBEFORE(INDEX(row,1), " "), TRIM(INDEX(row,1))),
-                    isTarget, rowLabels = label,
-                    inputScores, IFERROR(FILTER(rowScores, NOT(ISFORMULA(rowScores)) * isTarget),0),
-                    inputPoints, IFERROR(FILTER(rowPoints, NOT(ISFORMULA(rowScores)) * isTarget),0),
-                    remainingPoints, FILTER(rowPoints, ISFORMULA(rowScores) * isTarget),
-                    desiredPercentage, IFERROR(XLOOKUP(label, labelList, percentageList), 0),
-                    currentScore, INDEX(row, COLUMNS(dataGradebookTable) - 1),
-                    currentPoint, INDEX(row, COLUMNS(dataGradebookTable)),
-                    calculation, IF(NOT(SUM(inputScores)),
-                              desiredPercentage*currentPoint,
-                              (desiredPercentage * SUM(inputPoints, remainingPoints) - SUM(inputScores)) / SUM(remainingPoints) * currentPoint
-                              ),
+     percentageLabel, D43:E52,
+     percentageList, INDEX(percentageLabel,,1),
+     labelList, INDEX(percentageLabel,,2),
 
-                    IF(ISFORMULA(currentScore)*(label<>""), calculation, "")
+     IF(buttonToggle,
+          BYROW(dataGradebookTable,
+               LAMBDA(row,
+                    LET(
+                         label, IFERROR(TEXTBEFORE(INDEX(row,1), " "), TRIM(INDEX(row,1))),
+                         isTarget, rowLabels = label,
+                         inputScores, IFERROR(FILTER(rowScores, NOT(ISFORMULA(rowScores)) * isTarget),0),
+                         inputPoints, IFERROR(FILTER(rowPoints, NOT(ISFORMULA(rowScores)) * isTarget),0),
+                         remainingPoints, FILTER(rowPoints, ISFORMULA(rowScores) * isTarget),
+                         desiredPercentage, IFERROR(XLOOKUP(label, labelList, percentageList), 0),
+                         currentScore, INDEX(row, COLUMNS(dataGradebookTable) - 1),
+                         currentPoint, INDEX(row, COLUMNS(dataGradebookTable)),
+                         calculation, IF(NOT(SUM(inputScores)),
+                                   desiredPercentage * currentPoint,
+                                   (desiredPercentage * SUM(inputPoints, remainingPoints) - SUM(inputScores)) / SUM(remainingPoints) * currentPoint
+                                   ),
+
+                         IF(ISFORMULA(currentScore) * (label <> ""), calculation, "")
+                         )
                     )
-               )
+               ),
+          ""
           )
      )
