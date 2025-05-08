@@ -49,4 +49,4 @@
 > 
 > Calculates required scores on future assignments to meet that grade
 >
-> <img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/reverseScoreCalculated.png>
+> <img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/reverseScoreCalculator.png>
