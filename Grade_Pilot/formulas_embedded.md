@@ -5,7 +5,7 @@
       <a href="./README.md">𝗠𝗔𝗜𝗡 𝗣𝗔𝗚𝗘</a>  
     </td>
     <td width="500px" align="right">
-      <a href="./formulas_conditional_format.md">𝗕𝗔𝗖𝗞 𝗘𝗡𝗗</a>
+      <a href="./formulas_conditional_format.md">𝗖𝗢𝗡𝗗𝗜𝗧𝗜𝗢𝗡𝗔𝗟 𝗙𝗢𝗥𝗠𝗔𝗧</a>
     </td>
   </tr>
 </table>
