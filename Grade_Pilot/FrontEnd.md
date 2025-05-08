@@ -3,7 +3,7 @@
 
 ## $\color{GreenYellow}{\textsf{GENERAL INFO}}$
 - The GradeBook Table spans the Red to Yellow regions.
-- Grey cells are automatically populated via the Back End and do not require manual editing.
+- Grey cells are automatically populated via the [Back End](https://github.com/Kyros0718/EXCEL_Project/blob/main/Grade_Pilot/BackEnd.md) and do not require manual editing.
   
 ## $\color{GreenYellow}{\textsf{COLOR SCHEMES:}}$
 - 🔴 $\color{Red}{\textsf{RED:}}$ – Assignments
@@ -13,7 +13,7 @@
   - Default scores are auto-filled 2 cells to the right for grade prediction if left blank.
 - 🟡 $\color{Yellow}{\textsf{YELLOW:}}$ – Assignment Points
   - Enter the maximum points possible for each assignment here.
-- 🟢 $\color{Green}{\textsf{GREEN:}}$$ – Grading Scale
+- 🟢 $\color{Green}{\textsf{GREEN:}}$ – Grading Scale
   - Customize your letter grades and score thresholds to match the class syllabus.
 - 🔵 $\color{Blue}{\textsf{BLUE:}}$ – Desired Grade
   - Input the target grade for which you'd like to see required performance predictions.
