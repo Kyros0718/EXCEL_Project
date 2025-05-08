@@ -1,5 +1,17 @@
 # GRADE PILOT
 > Excel: Autonomous Grade Tracking, Forecasting, and Planning
+
+<table>
+  <tr>
+    <td width="500px" align="left">
+      <a href="https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md">⬅️ Back End</a>
+    </td>
+    <td width="500px" align="right">
+      <a href="https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_frontend.md">Front End ➡️</a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <img src=https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/Grade%20Pilot%20Representation.png width=400>
 </div>
