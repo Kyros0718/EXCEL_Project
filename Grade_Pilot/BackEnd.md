@@ -3,7 +3,7 @@
 
 ## $\color{GreenYellow}{\textsf{COLOR SCHEMES:}}$
 - All Formulas are embedded into their corresponding colored Cell
-- Grey Colors are Manually Manipulated on FrontEnd
+- Grey Colors are Manually Manipulated on **[FrontEnd](https://github.com/Kyros0718/EXCEL_Project/edit/main/Grade_Pilot/FrontEnd.md)**
 
 ## $\color{GreenYellow}{\textsf{FORMULAS:}}$
 
