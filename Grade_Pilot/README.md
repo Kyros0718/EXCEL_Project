@@ -48,5 +48,5 @@
 ## $\color{GreenYellow}{\textsf{Other:}}$
 
 - Download: [GradePilot.xlsx](./GradePilot.xlsx)
-- Formulas: [Embedded]()
-- Formulas: [Conditional Formats]()
+- Formulas: [Embedded](./formulas_embedded.md)
+- Formulas: [Conditional Formats](./formulas_conditional_format.md)
