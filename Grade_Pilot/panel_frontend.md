@@ -1,5 +1,11 @@
 # Front End of Grade Pilot
 
+<div style="width: 100%; display: flex; justify-content: space-between;">
+  <a href="https://github.com/youruser/yourrepo/page1">⬅️ Previous</a>
+  <a href="https://github.com/youruser/yourrepo/page3">Next ➡️</a>
+</div>
+
+
 <div align="center">
 <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/FrontEndColorSchemes.png width=400>
 </div>
