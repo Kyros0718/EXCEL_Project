@@ -1,7 +1,7 @@
 # GRADE PILOT
 > Autonomous Grade Tracking, Forecasting, and Planning — all in Excel
 <div align="center">
-  <img src="https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/Grade%20Pilot%20Representation.png" width=400>
+  <img src=https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/Grade%20Pilot%20Representation.png width=400>
 </div>
 
 ## $\color{GreenYellow}{\textsf{Key Features:}}$
