@@ -1,9 +1,15 @@
 # Front End of Grade Pilot
 
-<div style="width: 100%; display: flex; justify-content: space-between;">
-  <a href="https://github.com/youruser/yourrepo/page1">⬅️ Previous</a>
-  <a href="https://github.com/youruser/yourrepo/page3">Next ➡️</a>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/youruser/yourrepo/page1">⬅️ Previous</a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/youruser/yourrepo/page3">Next ➡️</a>
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
