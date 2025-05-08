@@ -6,7 +6,7 @@
 
 ## $\color{GreenYellow}{\textsf{COLOR SCHEMES:}}$
 - Every colored cell contains embedded formulas tied to its specific function.
-- Grey Cells are user-controlled inputs from the **[FrontEnd](https://github.com/Kyros0718/EXCEL_Project/edit/main/Grade_Pilot/FrontEnd.md)** and should only be changed manually. 
+- Grey Cells are user-controlled inputs from the **[FrontEnd](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_frontend.md)** and should only be changed manually. 
 
 ## $\color{GreenYellow}{\textsf{FORMULAS:}}$
 
