@@ -2,8 +2,8 @@
 <img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/backEndColorKeys.png>
 
 ## $\color{GreenYellow}{\textsf{COLOR SCHEMES:}}$
-- All Formulas are embedded into their corresponding colored Cell
-- Grey Colors are Manually Manipulated on **[FrontEnd](https://github.com/Kyros0718/EXCEL_Project/edit/main/Grade_Pilot/FrontEnd.md)**
+- Every colored cell contains embedded formulas tied to its specific function.
+- Grey Cells are user-controlled inputs from the **[FrontEnd](https://github.com/Kyros0718/EXCEL_Project/edit/main/Grade_Pilot/FrontEnd.md)** and should only be changed manually. 
 
 ## $\color{GreenYellow}{\textsf{FORMULAS:}}$
 
