@@ -44,3 +44,7 @@
 > 2. Review the [Back End](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md) to understand how calculations work.
 >
 > 3. For Setup: adjust the [GradeBook Table Range](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md#gradebook-range-semi-automatic-setup-required) to include all your assignments. This is the only part that may require manual scaling.
+
+## $\color{GreenYellow}{\textsf{Other:}}$
+
+Download [GradePilot.xlsx](./Grade_Pilot/GradePilot.xlsx)
