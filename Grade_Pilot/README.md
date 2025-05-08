@@ -45,7 +45,7 @@
 >
 > 3. For Setup: adjust the [GradeBook Table Range](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md#gradebook-range-semi-automatic-setup-required) to include all your assignments. This is the only part that may require manual scaling.
 
-## $\color{GreenYellow}{\textsf{Other:}}$
+## $\color{GreenYellow}{\textsf{Resources:}}$
 
 - Download: [GradePilot.xlsx](./GradePilot.xlsx)
 - Formulas: [Embedded](./formulas_embedded.md)
