@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td width="500px" align="left">
-      <a href="https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md">⬅️ Back End</a>
+      <a href="https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md">𝗕𝗔𝗖𝗞 𝗘𝗡𝗗</a>
     </td>
     <td width="500px" align="right">
-      <a href="https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_frontend.md">Front End ➡️</a>
+      <a href="https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_frontend.md">𝗙𝗥𝗢𝗡𝗧 𝗘𝗡𝗗</a>
     </td>
   </tr>
 </table>
