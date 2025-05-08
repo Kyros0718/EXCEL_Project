@@ -47,4 +47,4 @@
 
 ## $\color{GreenYellow}{\textsf{Other:}}$
 
-Download [GradePilot.xlsx](./Grade_Pilot/GradePilot.xlsx)
+Download [GradePilot.xlsx](./GradePilot.xlsx)
