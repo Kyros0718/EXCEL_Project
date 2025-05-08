@@ -1,5 +1,8 @@
 # Front End of Grade Pilot
-<img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/FrontEndColorSchemes.png>
+
+<div align="center">
+<img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/FrontEndColorSchemes.png width=400>
+</div>
 
 ## $\color{GreenYellow}{\textsf{GENERAL INFO}}$
 - The GradeBook Table spans the Red to Yellow regions.
