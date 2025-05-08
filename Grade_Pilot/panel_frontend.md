@@ -1,16 +1,15 @@
 # Front End of Grade Pilot
 
-<table width="100%">
+<table>
   <tr>
-    <td align="left">
-      <a href="https://github.com/youruser/yourrepo/page1">⬅️ Previous</a>
+    <td width="500px" align="left">
+      <a href="https://github.com/Kyros0718/Excel_Projects/tree/main/Grade_Pilot">⬅️ Main Page</a>  
     </td>
-    <td align="right">
-      <a href="https://github.com/youruser/yourrepo/page3">Next ➡️</a>
+    <td width="500px" align="right">
+      <a href="https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md">Back End ➡️</a>
     </td>
   </tr>
 </table>
-
 
 <div align="center">
 <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/FrontEndColorSchemes.png width=400>
