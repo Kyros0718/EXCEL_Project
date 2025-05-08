@@ -1,4 +1,11 @@
+# Back End of Grade Pilot
 <img src= https://github.com/Kyros0718/EXCEL_Project/blob/main/Projects_Image_Folder%20/Grade_Pilot_Images/backEndColorKeys.png>
+
+## $\color{GreenYellow}{\textsf{COLOR SCHEMES:}}$
+- All Formulas are embedded into their corresponding colored Cell
+- Grey Colors are Manually Manipulated on FrontEnd
+
+## $\color{GreenYellow}{\textsf{FORMULAS:}}$
 
 ## GradeBook Range _(Semi-Automatic Setup Required)_
 > ⚠️ You must manually scale the range to cover all Assignment's: Task, Scores, and Points
