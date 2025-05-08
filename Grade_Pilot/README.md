@@ -1,5 +1,4 @@
 # GRADE PILOT
-> Excel: Autonomous Grade Tracking, Forecasting, and Planning
 
 <table>
   <tr>
@@ -15,6 +14,8 @@
 <div align="center">
   <img src=https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/Grade%20Pilot%20Representation.png width=400>
 </div>
+
+> Excel: Autonomous Grade Tracking, Forecasting, and Planning
 
 ## $\color{GreenYellow}{\textsf{Key Features:}}$
 
