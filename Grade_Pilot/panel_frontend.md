@@ -2,10 +2,10 @@
 <table>
   <tr>
     <td width="500px" align="left">
-      <a href="../">𝗠𝗔𝗜𝗡 𝗣𝗔𝗚𝗘</a>  
+      <a href="./README.md">𝗠𝗔𝗜𝗡 𝗣𝗔𝗚𝗘</a>  
     </td>
     <td width="500px" align="right">
-      <a href="../panel_backend.md">𝗕𝗔𝗖𝗞 𝗘𝗡𝗗</a>
+      <a href="./panel_backend.md">𝗕𝗔𝗖𝗞 𝗘𝗡𝗗</a>
     </td>
   </tr>
 </table>
