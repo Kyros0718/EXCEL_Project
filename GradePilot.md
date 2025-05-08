@@ -16,7 +16,7 @@
 - Displays current grade percentage
 - Predicts letter grade based on customizable scale
 
-### **📈 Grade Goal Forecasting**
+### **📈 Reverse Grade Calculator**
 - Choose a desired letter grade (e.g., B−)
 - System calculates:
   - The required average percentage per category
