@@ -26,8 +26,8 @@
   - $\color{Grey}{\textsf{The score needed on ungraded/missing assignments to meet that goal}}$
 
 ## $\color{GreenYellow}{\textsf{Instructions:}}$
-> 1. Start with the [Front End](https://github.com/Kyros0718/EXCEL_Project/edit/main/Grade_Pilot/FrontEnd.md) — this is where you’ll interact with the tool (e.g., entering assignments, scores, and selecting your desired grade).
+> 1. Start with the [Front End](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_frontend.md) — this is where you’ll interact with the tool (e.g., entering assignments, scores, and selecting your desired grade).
 >
-> 2. Review the [Back End](https://github.com/Kyros0718/EXCEL_Project/blob/main/Grade_Pilot/BackEnd.md) to understand how calculations work.
+> 2. Review the [Back End](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md) to understand how calculations work.
 >
-> 3. For Setup: adjust the [GradeBook Table Range](https://github.com/Kyros0718/EXCEL_Project/blob/main/Grade_Pilot/BackEnd.md#gradebook-range-semi-automatic-setup-required) to include all your assignments. This is the only part that may require manual scaling.
+> 3. For Setup: adjust the [GradeBook Table Range](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md#gradebook-range-semi-automatic-setup-required) to include all your assignments. This is the only part that may require manual scaling.
