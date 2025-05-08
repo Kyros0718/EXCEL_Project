@@ -3,7 +3,7 @@
 
 ## $\color{GreenYellow}{\textsf{GENERAL INFO}}$
 - The GradeBook Table spans the Red to Yellow regions.
-- Grey cells are automatically populated via the [Back End](https://github.com/Kyros0718/EXCEL_Project/blob/main/Grade_Pilot/BackEnd.md) and do not require manual editing.
+- Grey cells are automatically populated via the **[Back End](https://github.com/Kyros0718/EXCEL_Project/blob/main/Grade_Pilot/BackEnd.md)** and do not require manual editing.
   
 ## $\color{GreenYellow}{\textsf{COLOR SCHEMES:}}$
 - 🔴 $\color{Red}{\textsf{RED:}}$ – Assignments
