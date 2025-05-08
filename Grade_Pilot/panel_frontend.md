@@ -1,4 +1,4 @@
-# Front End of Grade Pilot
+# FRONT END
 
 <table>
   <tr>
