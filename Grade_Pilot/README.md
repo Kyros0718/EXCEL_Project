@@ -47,4 +47,6 @@
 
 ## $\color{GreenYellow}{\textsf{Other:}}$
 
-Download [GradePilot.xlsx](./GradePilot.xlsx)
+- Download: [GradePilot.xlsx](./GradePilot.xlsx)
+- Formulas: [Embedded]()
+- Formulas: [Conditional Formats]()
