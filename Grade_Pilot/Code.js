@@ -1,3 +1,4 @@
+// {RED} – GradeBook Range
 =LET(
      gradebookTable,A1:H41,
           leftopPosition, ADDRESS(ROW(INDEX(gradebookTable,1,1)), COLUMN(INDEX(gradebookTable,1,1)), 4),
@@ -7,6 +8,7 @@
      )
 
 
+// {ORANGE} – Required Percentage To reach "Desired Grade"
 =BYROW(E43:E52, 
      LAMBDA(searchLabel,
           IF(searchLabel <> "",
@@ -27,6 +29,7 @@
      )
 
 
+// {YELLOW} – Category Generator
 =LET(
      buttonGrade, I53:I54,
           one,INDEX(buttonGrade, 1, 1),
@@ -47,6 +50,7 @@
      )
 
 
+// {GREEN} – Category Averages
 =LET(
      dataGradebookTable, INDIRECT(A52),
           assignments, INDEX(dataGradebookTable, 0, 1),
@@ -57,6 +61,7 @@
      )
 
 
+// {BLUE} – Total Sum Of Scores with Total Sum of Points
 =LET(
      gradeBreakdownTable, E43:H52,
           labelList, INDEX(gradeBreakdownTable, 0, 1),
@@ -89,6 +94,7 @@
      )
 
 
+// {INDIGO} – Letter Grade Estimation
 =BYCOL(G43:H52, LAMBDA(col, SUM(col)))
 
 
@@ -102,6 +108,7 @@
      )
 
 
+// {VIOLET} – Reverse Calculator
 =LET(
      buttonToggle, I53,
      dataGradebookTable, INDIRECT(A52),
