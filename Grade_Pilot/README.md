@@ -17,7 +17,10 @@
 
 > Excel: Autonomous Grade Tracking, Forecasting, and Planning
 
-<img src="./images/cw_key_features.png" height="20">
+<br>
+<img src=./images/cw_.png height=20>
+<>
+****
 
 ### **🚀 Fully Autonomous Functionality**
 >- Just input your assignments — the system handles everything else.
@@ -38,7 +41,10 @@
 >   - The required average percentage per category
 >   - The score needed on ungraded/missing assignments to meet that goal
 
+<br>
 <img src=./images/cw_instructions.png height=20>
+
+****
 
 > 1. Start with the [Front End](./panel_frontend.md) — this is where you’ll interact with the tool (e.g., entering assignments, scores, and selecting your desired grade).
 >
@@ -46,8 +52,10 @@
 >
 > 3. For Setup: adjust the [GradeBook Table Range](./panel_backend.md#gradebook-range-semi-automatic-setup-required) to include all your assignments. This is the only part that may require manual scaling.
 
+<br>
 <img src=./images/cw_resources.png height=20>
 
+****
 - **Download: [GradePilot_v01.xlsx](https://github.com/Kyros0718/Excel_Projects/releases/tag/GradePilot_v1.0.0)**
 - Formulas: [Embedded](./formulas_embedded.md)
 - Formulas: [Conditional Formats](./formulas_conditional_format.md)
