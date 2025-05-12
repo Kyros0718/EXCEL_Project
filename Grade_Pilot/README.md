@@ -43,7 +43,7 @@
 >   - The score needed on ungraded/missing assignments to meet that goal
 
 <br>
-<img src=./images/cw_instructions.png height=20>
+[ <img src=./images/cw_instructions.png height=20> ]( . )
 
 ****
 
@@ -54,7 +54,7 @@
 > 3. For Setup: adjust the [GradeBook Table Range](./panel_backend.md#gradebook-range-semi-automatic-setup-required) to include all your assignments. This is the only part that may require manual scaling.
 
 <br>
-<img src=./images/cw_resources.png height=20>
+[ <img src=./images/cw_resources.png height=20> ]( . )
 
 ****
 - **Download: [GradePilot_v01.xlsx](https://github.com/Kyros0718/Excel_Projects/releases/tag/GradePilot_v1.0.0)**
