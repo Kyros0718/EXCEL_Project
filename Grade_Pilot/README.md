@@ -12,7 +12,7 @@
 </table>
 
 <div align="center">
-  <img src=https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/Grade%20Pilot%20Representation.png width=400>
+  <img src=./images/Grade%20Pilot%20Representation.png width=400>
 </div>
 
 > Excel: Autonomous Grade Tracking, Forecasting, and Planning
@@ -40,11 +40,11 @@
 
 <img src=./images/cw_instructions.png height=20>
 
-> 1. Start with the [Front End](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_frontend.md) — this is where you’ll interact with the tool (e.g., entering assignments, scores, and selecting your desired grade).
+> 1. Start with the [Front End](./panel_frontend.md) — this is where you’ll interact with the tool (e.g., entering assignments, scores, and selecting your desired grade).
 >
-> 2. Review the [Back End](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md) to understand how calculations work.
+> 2. Review the [Back End](./panel_backend.md) to understand how calculations work.
 >
-> 3. For Setup: adjust the [GradeBook Table Range](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md#gradebook-range-semi-automatic-setup-required) to include all your assignments. This is the only part that may require manual scaling.
+> 3. For Setup: adjust the [GradeBook Table Range](./panel_backend.md#gradebook-range-semi-automatic-setup-required) to include all your assignments. This is the only part that may require manual scaling.
 
 <img src=./images/cw_resources.png height=20>
 
