@@ -18,7 +18,7 @@
 > Excel: Autonomous Grade Tracking, Forecasting, and Planning
 
 <br>
-<img src=./images/cw_.png height=20>
+<img src=./images/cw_key_featuress.png height=20>
 
 ****
 
