@@ -27,7 +27,7 @@ Format
 
 
 // Reverse Calculator: Prediction Limit Detector
-Applied Cell
+Applied Cell (separately)
   D32:D41
 Format
 =OR(D32>1,D32<0)
