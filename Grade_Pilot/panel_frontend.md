@@ -11,7 +11,7 @@
 </table>
 
 <div align="center">
-<img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/FrontEndColorSchemes.png width=400>
+<img src=./images/FrontEndColorSchemes.png width=400>
 </div>
 
 <br>
@@ -21,7 +21,7 @@
 ****
 
 - The GradeBook Table spans the Red to Yellow regions.
-- Grey cells are automatically populated via the **[Back End](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md)** and do not require manual editing.
+- Grey cells are automatically populated via the **[Back End](./panel_backend.md)** and do not require manual editing.
 
 <br>
 
