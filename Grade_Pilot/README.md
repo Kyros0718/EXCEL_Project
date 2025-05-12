@@ -17,7 +17,7 @@
 
 > Excel: Autonomous Grade Tracking, Forecasting, and Planning
 
-## $\color{GreenYellow}{\textsf{Key Features:}}$
+<img src=./images/cw_key_features.png width=400>
 
 ### **🚀 Fully Autonomous Functionality**
 >- Just input your assignments — the system handles everything else.
