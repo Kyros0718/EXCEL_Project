@@ -14,11 +14,18 @@
 <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/backendcolorschemes.png width=400>
 </div>
 
-## $\color{GreenYellow}{\textsf{COLOR SCHEMES:}}$
+<br>
+<img src="./images/cw_color_schemes.png" height="20">
+
+****
+
 - Every colored cell contains embedded formulas tied to its specific function.
 - Grey Cells are user-controlled inputs from the **[FrontEnd](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_frontend.md)** and should only be changed manually. 
 
-## $\color{GreenYellow}{\textsf{FORMULAS:}}$
+<br>
+<img src="./images/cw_formulas.png" height="20">
+
+****
 
 ## GradeBook Range _(Semi-Automatic Setup Required)_
 > ⚠️ You must manually scale the range to cover all Assignment's: Task, Scores, and Points
