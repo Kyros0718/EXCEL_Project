@@ -18,7 +18,7 @@
 - The GradeBook Table spans the Red to Yellow regions.
 - Grey cells are automatically populated via the **[Back End](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md)** and do not require manual editing.
   
-## $\color{GreenYellow}{\textsf{COLOR SCHEMES:}}$
+<img src="./images/cw_color_schemes.png" height="20">
 - 🔴 $\color{Red}{\textsf{RED:}}$ – Assignments
   - Ensure that the first word of each task is a consistent category name (e.g., HW, EXAM, QUIZ).
 - 🟠 $\color{Orange}{\textsf{ORANGE:}}$ – Assignment Scores
