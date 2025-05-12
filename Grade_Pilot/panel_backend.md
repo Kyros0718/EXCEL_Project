@@ -11,7 +11,7 @@
 </table>
 
 <div align="center">
-<img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/backendcolorschemes.png width=400>
+<img src= ./images/backendcolorschemes.png width=400>
 </div>
 
 <br>
@@ -20,7 +20,7 @@
 ****
 
 - Every colored cell contains embedded formulas tied to its specific function.
-- Grey Cells are user-controlled inputs from the **[FrontEnd](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_frontend.md)** and should only be changed manually. 
+- Grey Cells are user-controlled inputs from the **[FrontEnd](./panel_frontend.md)** and should only be changed manually. 
 
 <br>
 <img src="./images/cw_formulas.png" height="20">
@@ -34,12 +34,12 @@
 > 
 > ✅ Designed to be easy to resize—just drag to include all rows
 > 
-> <img src=https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/blockRangeGradeBookTable.png >
+> <img src=./images/blockRangeGradeBookTable.png >
 
 ## Automatic Required Average Percentage per Generated Category
 > Shows how much % each category must contribute to reach "Desired Grade"
 > 
-> <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/desiredPercentage.png>
+> <img src=./images/desiredPercentage.png>
 
 
 ## Automatic Category Recognition & Generation
