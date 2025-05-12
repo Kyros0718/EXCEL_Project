@@ -47,7 +47,7 @@
 
 ## $\color{GreenYellow}{\textsf{Resources:}}$
 
-- Download: [Grade_Pilot.xlsx](./Grade_Pilot.xlsx)
+- Download: [Grade_Pilot.xlsx](./Grade%20Pilot.xlsx)
 - Formulas: [Embedded](./formulas_embedded.md)
 - Formulas: [Conditional Formats](./formulas_conditional_format.md)
 
