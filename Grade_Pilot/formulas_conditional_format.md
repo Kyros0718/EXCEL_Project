@@ -18,11 +18,13 @@ Applied Cell
 Format
   =NOT(ISFORMULA(G1))
 
+
 // Reverse Calculator: Points Limit Detector 
 Applied Cell
   F1:F30
 Format
   =OR(AND(ISNUMBER(F1),(F1>H1)),F1<0)
+
 
 // Reverse Calculator: Prediction Limit Detector
 Applied Cell
@@ -30,11 +32,13 @@ Applied Cell
 Format
 =OR(D32>1,D32<0)
 
+
 // Table Decoration: Percent Prediction to Category
 Applied Cell
   D32:E41
 Format
   =D32<>""
+
 
 // Category-Score-Points Detector
 Applied Cell
@@ -44,6 +48,7 @@ Applied Cell
   H32:H41
 Format
   =ISTEXT(E32)
+
 
 // Toggle Button Detector
 Applied Cell
