@@ -19,7 +19,7 @@
 
 <br>
 <img src=./images/cw_.png height=20>
-<>
+
 ****
 
 ### **🚀 Fully Autonomous Functionality**
