@@ -47,26 +47,26 @@
 >
 >🧩 Detects the first word of each assignment to generate its corresponding category
 >
-><img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/assignementCategoryGenerator.png>
+><img src=./images/assignementCategoryGenerator.png>
 
 ## Automatic Average Score Calculation per Generatorated Category
 > Computes total average points earned from all assignment corresponding to their categegory
 >
-> <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/avgScoreGenerator.png>
+> <img src=./images/avgScoreGenerator.png>
 
 ## Average Numerical Grade Estimation
 > Calculates your total earned score and total possible points
 >
-> <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/totalScoreAndPoints.png>
+> <img src=./images/totalScoreAndPoints.png>
 
 ## Average Letter Grade Estimation
 > Converts numerical score into letter grade using inputed grade scale
 >
-> <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/letterGradeEstimation.png>
+> <img src=./images/letterGradeEstimation.png>
 
 ## Automatic Reverse Grade Calculator
 > Enter a target letter grade
 > 
 > Calculates required scores on future assignments to meet that grade
 >
-> <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/reverseScoreCalculator.png>
+> <img src=./images/reverseScoreCalculator.png>
