@@ -14,7 +14,7 @@
 <img src= https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/images/FrontEndColorSchemes.png width=400>
 </div>
 
-## $\color{GreenYellow}{\textsf{GENERAL INFO}}$
+<img src="./images/cw_general_info.png" height="20">
 - The GradeBook Table spans the Red to Yellow regions.
 - Grey cells are automatically populated via the **[Back End](https://github.com/Kyros0718/Excel_Projects/blob/main/Grade_Pilot/panel_backend.md)** and do not require manual editing.
   
