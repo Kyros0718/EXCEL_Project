@@ -17,6 +17,8 @@
 
 > Excel: Autonomous Grade Tracking, Forecasting, and Planning
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 <br>
 
 [<img src=./images/cw_key_features.png height=25>](./README.md)
@@ -73,5 +75,5 @@
 </div>
 
 ****
-© 2024 Kyros0718. Released under CC BY-NC 4.0.  
+© 2025 Kyros0718. Released under CC BY-NC 4.0.  
 This project may not be used for commercial purposes or claimed as your own.
