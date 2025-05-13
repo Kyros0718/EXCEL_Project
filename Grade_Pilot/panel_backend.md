@@ -15,7 +15,8 @@
 </div>
 
 <br>
-<img src="./images/cw_color_schemes.png" height="20">
+
+[<img src="./images/cw_color_schemes.png" height="20">](./panel_backend.md)
 
 ****
 
@@ -23,7 +24,8 @@
 - Grey Cells are user-controlled inputs from the **[FrontEnd](./panel_frontend.md)** and should only be changed manually. 
 
 <br>
-<img src="./images/cw_formulas.png" height="20">
+
+[<img src="./images/cw_formulas.png" height="20">](./panel_backend.md)
 
 ****
 
