@@ -60,10 +60,7 @@
 
 ****
 
-[📥 Click here to download GradePilot_v01.xlsx](https://github.com/Kyros0718/Excel_Projects/releases/download/GradePilot_v1.0.0/GradePilot_v01.xlsx)
-
-
-- **Download: [GradePilot_v01.xlsx](https://github.com/Kyros0718/Excel_Projects/releases/tag/GradePilot_v1.0.0)**
+**⬇️ Download: [GradePilot_v01.xlsx](https://github.com/Kyros0718/Grade_Pilot/releases/download/GradePilot_v1.0.0/GradePilot_v01.xlsx)**
 - Formulas: [Embedded](./formulas_embedded.md)
 - Formulas: [Conditional Formats](./formulas_conditional_format.md)
 
