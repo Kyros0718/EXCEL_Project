@@ -19,7 +19,7 @@
 
 <br>
 
-[ <img src=./images/cw_key_features.png height=25> ]( ./README.md)
+[<img src=./images/cw_key_features.png height=25>](./README.md)
 
 ****
 
@@ -44,7 +44,7 @@
 
 <br>
 
-[ <img src=./images/cw_instructions.png height=20> ]( . )
+[<img src=./images/cw_instructions.png height=20> ](./README.md)
 
 ****
 
@@ -56,7 +56,7 @@
 
 <br>
 
-[ <img src=./images/cw_resources.png height=20> ]( . )
+[<img src=./images/cw_resources.png height=20> ](./README.md)
 
 ****
 - **Download: [GradePilot_v01.xlsx](https://github.com/Kyros0718/Excel_Projects/releases/tag/GradePilot_v1.0.0)**
