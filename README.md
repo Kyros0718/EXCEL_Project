@@ -15,7 +15,15 @@
   <img src=./images/Grade%20Pilot%20Representation.png width=400>
 </div>
 
+<div align="right">
+  
+[<img src=./images/Download%20Button.png height=50> ](https://github.com/Kyros0718/Grade_Pilot/releases/download/GradePilot_v1.0.0/GradePilot_v01.xlsx)
+
+</div>
+
+
 > Excel: Autonomous Grade Tracking, Forecasting, and Planning
+
 
 <br>
 
@@ -59,12 +67,9 @@
 [<img src=./images/cw_resources.png height=20> ](./README.md)
 
 ****
-[<img src=./images/Download%20Button.png height=50> ](https://github.com/Kyros0718/Grade_Pilot/releases/download/GradePilot_v1.0.0/GradePilot_v01.xlsx)
 
 - Formulas: [Embedded](./formulas_embedded.md)
 - Formulas: [Conditional Formats](./formulas_conditional_format.md)
-
-
 
 <div align="right">
   
@@ -72,7 +77,6 @@
   
 </div>
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ****
 
 This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/) © 2025 Kyros0718.  
