@@ -19,7 +19,7 @@
 
 <br>
 
-[ <img src=./images/cw_key_features.png height=25> ]( . )
+[ <img src=./images/cw_key_features.png height=25> ]( ./README.md)
 
 ****
 
