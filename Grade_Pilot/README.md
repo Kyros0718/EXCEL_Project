@@ -59,6 +59,10 @@
 [<img src=./images/cw_resources.png height=20> ](./README.md)
 
 ****
+
+[📥 Click here to download GradePilot_v01.xlsx](https://github.com/Kyros0718/Excel_Projects/releases/download/GradePilot_v1.0.0/GradePilot_v01.xlsx)
+
+
 - **Download: [GradePilot_v01.xlsx](https://github.com/Kyros0718/Excel_Projects/releases/tag/GradePilot_v1.0.0)**
 - Formulas: [Embedded](./formulas_embedded.md)
 - Formulas: [Conditional Formats](./formulas_conditional_format.md)
