@@ -69,6 +69,6 @@
 
 <div align="right">
   
-  [𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦](https://github.com/Kyros0718/Excel_Projects)
+  [𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦](https://github.com/Kyros0718/Excel_Projects/README.md)
   
 </div>
