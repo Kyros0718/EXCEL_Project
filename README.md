@@ -64,8 +64,14 @@
 - Formulas: [Embedded](./formulas_embedded.md)
 - Formulas: [Conditional Formats](./formulas_conditional_format.md)
 
+<br>
+
 <div align="right">
   
   [𝗢𝗧𝗛𝗘𝗥 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦](https://github.com/Kyros0718/Excel_Projects/blob/main/README.md)
   
 </div>
+
+****
+© 2024 Kyros0718. Released under CC BY-NC 4.0.  
+This project may not be used for commercial purposes or claimed as your own.
