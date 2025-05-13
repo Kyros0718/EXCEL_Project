@@ -76,5 +76,6 @@
 </div>
 
 ****
-© 2025 Kyros0718. Released under CC BY-NC 4.0.  
-This project may not be used for commercial purposes or claimed as your own.
+
+This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/) © 2025 Kyros0718.  
+Commercial use is not permitted. Please give proper credit if reused or modified.
