@@ -10,10 +10,10 @@
   </tr>
 </table>
 
-``` js
+```js
 // {RED} – GradeBook Range
 =LET(
-     gradebookTable,A1:H41,
+     gradebookTable,A1:H50,
           leftopPosition, ADDRESS(ROW(INDEX(gradebookTable,1,1)), COLUMN(INDEX(gradebookTable,1,1)), 4),
           rightbottomPosition, ADDRESS(ROW(INDEX(gradebookTable,ROWS(gradebookTable),1)), COLUMN(INDEX(gradebookTable,1,COLUMNS(gradebookTable))), 4),
 
@@ -22,40 +22,19 @@
 
 
 // {ORANGE} – Required Percentage To reach "Desired Grade"
-=BYROW(E43:E52, 
-     LAMBDA(searchLabel,
-          IF(searchLabel <> "",
-               LET(
-                    dataGradebookTable, INDIRECT(A52),
-                         labels, IFERROR(TEXTBEFORE(INDEX(dataGradebookTable,0,1), " "), INDEX(dataGradebookTable,0,1)),
-                         matchRows, FILTER(ROW(dataGradebookTable), ISNUMBER(SEARCH(searchLabel, labels))),
-                         startRow, MIN(matchRows),
-                         endRow, MAX(matchRows),
-                         startRef, ADDRESS(startRow, COLUMN(INDEX(dataGradebookTable, 1, 1)), 4),
-                         endRef, ADDRESS(endRow, COLUMN(INDEX(dataGradebookTable, 1, COLUMNS(dataGradebookTable))), 4),
-                    
-                    startRef & ":" & endRef
-                    ),
-               ""
-               )
-          )
-     )
-
-
-// {YELLOW} – Category Generator
 =LET(
-     buttonGrade, I53:I54,
+     buttonGrade, F62:F63,
           one,INDEX(buttonGrade, 1, 1),
           letterGrade, INDIRECT(ADDRESS(ROW(one), COLUMN(one), 4)),
           buttonPressed, INDIRECT(ADDRESS(ROW(INDEX(buttonGrade, 2, 1)), COLUMN(one), 4)),
-     scoreAvg, G43:H52,
+     scoreAvg, G52:H61,
           score, INDEX(scoreAvg, 0, 1),
           points, INDEX(scoreAvg, 0, 2),
-     gradeScale, A43:B51,
-     
+     gradeScale, A52:B60,
+
      IFERROR(
-          IF(letterGrade, 
-               (VLOOKUP(buttonPressed, gradeScale, 2, FALSE) - (SUM(score) - score)) / points, 
+          IF(letterGrade,
+               (VLOOKUP(buttonPressed, gradeScale, 2, FALSE) - (SUM(score) - score)) / points,
                ""
                ),
           ""
@@ -63,38 +42,38 @@
      )
 
 
-// {GREEN} – Category Averages
+// {YELLOW} – Category Generator
 =LET(
-     dataGradebookTable, INDIRECT(A52),
+     dataGradebookTable, INDIRECT(E63),
           assignments, INDEX(dataGradebookTable, 0, 1),
           trimAssignments, FILTER(assignments, assignments <> ""),
           labels, IFERROR(TEXTBEFORE(trimAssignments, " "), trimAssignments),
-     
+
      UNIQUE(FILTER(labels, labels <> ""))
      )
 
 
-// {BLUE} – Total Sum Of Scores with Total Sum of Points
+// {GREEN} – Category Averages
 =LET(
-     gradeBreakdownTable, E43:H52,
+     gradeBreakdownTable, E52:H61,
           labelList, INDEX(gradeBreakdownTable, 0, 1),
           weight, INDEX(gradeBreakdownTable, 0, COLUMNS(gradeBreakdownTable)),
-     dataGradebookTable, INDIRECT(A52),
+     dataGradebookTable, INDIRECT(E63),
           score, INDEX(dataGradebookTable, 0, COLUMNS(dataGradebookTable) - 1),
           points, INDEX(dataGradebookTable, 0, COLUMNS(dataGradebookTable)),
           labels, IFERROR(
-                    TEXTBEFORE(INDEX(dataGradebookTable, 0, 1)," "), 
+                    TEXTBEFORE(INDEX(dataGradebookTable, 0, 1)," "),
                     INDEX(dataGradebookTable, 0, 1)
                     ),
 
-     BYROW(labelList, 
+     BYROW(labelList,
           LAMBDA(label,
                IF(label <> "",
                     LET(
                          idx, ROW(label) - ROW(INDEX(labelList, 1, 1)) + 1,
                          labelScores, FILTER(score, labels = label),
                          labelPoints, FILTER(points, labels = label),
-                         
+
                          IF(SUM(labelPoints) = 0,
                               "",
                               SUM(labelScores) / SUM(labelPoints) * INDEX(weight, idx)
@@ -107,53 +86,42 @@
      )
 
 
+// {BLUE} – Total Sum Of Scores with Total Sum of Points
+=BYCOL(G52:H61, LAMBDA(col, SUM(col)))
+
+
 // {INDIGO} – Letter Grade Estimation
-=BYCOL(G43:H52, LAMBDA(col, SUM(col)))
-
-
 =LET(
-     avgFinalScore, G53,
-     gradeSCale, A43:B51,
-     letterGrade, INDEX(gradeSCale,0,1),
-     gradingRubric, INDEX(gradeSCale,0,2),
-     
-     XLOOKUP(avgFinalScore, gradingRubric, letterGrade, 0, -1)
-     )
-
-
-// {VIOLET} – Reverse Calculator
-=LET(
-     buttonToggle, I53,
-     dataGradebookTable, INDIRECT(A52),
+     buttonToggle, F62,
+     dataGradebookTable, INDIRECT(E63),
      rowLabels, IFERROR(TEXTBEFORE(INDEX(dataGradebookTable,,1), " "), ""),
      rowPoints, INDEX(dataGradebookTable,, COLUMNS(dataGradebookTable)),
      rowScores, INDEX(dataGradebookTable,, COLUMNS(dataGradebookTable) - 1),
 
-     percentageLabel, D43:E52,
+     percentageLabel, D52:E61,
      percentageList, INDEX(percentageLabel,,1),
      labelList, INDEX(percentageLabel,,2),
 
      IF(buttonToggle,
-          BYROW(dataGradebookTable,
-               LAMBDA(row,
-                    LET(
-                         label, IFERROR(TEXTBEFORE(INDEX(row,1), " "), TRIM(INDEX(row,1))),
-                         isTarget, rowLabels = label,
-                         inputScores, IFERROR(FILTER(rowScores, NOT(ISFORMULA(rowScores)) * isTarget),0),
-                         inputPoints, IFERROR(FILTER(rowPoints, NOT(ISFORMULA(rowScores)) * isTarget),0),
-                         remainingPoints, FILTER(rowPoints, ISFORMULA(rowScores) * isTarget),
-                         desiredPercentage, IFERROR(XLOOKUP(label, labelList, percentageList), 0),
-                         currentScore, INDEX(row, COLUMNS(dataGradebookTable) - 1),
-                         currentPoint, INDEX(row, COLUMNS(dataGradebookTable)),
-                         calculation, IF(NOT(SUM(inputScores)),
-                                   desiredPercentage * currentPoint,
-                                   (desiredPercentage * SUM(inputPoints, remainingPoints) - SUM(inputScores)) / SUM(remainingPoints) * currentPoint
-                                   ),
+        BYROW(dataGradebookTable,
+             LAMBDA(row,
+                  LET(
+                       label, IFERROR(TEXTBEFORE(INDEX(row,1), " "), TRIM(INDEX(row,1))),
+                       isTarget, rowLabels = label,
+                       inputScores, IFERROR(FILTER(rowScores, NOT(ISFORMULA(rowScores)) * isTarget),0),
+                       inputPoints, IFERROR(FILTER(rowPoints, NOT(ISFORMULA(rowScores)) * isTarget),0),
+                       remainingPoints, FILTER(rowPoints, ISFORMULA(rowScores) * isTarget),
+                       desiredPercentage, IFERROR(XLOOKUP(label, labelList, percentageList), 0),
+                       currentScore, INDEX(row, COLUMNS(dataGradebookTable) - 1),
+                       currentPoint, INDEX(row, COLUMNS(dataGradebookTable)),
+                       calculation, IF(NOT(SUM(inputScores)),
+                                 desiredPercentage * currentPoint,
+                                 (desiredPercentage * SUM(inputPoints, remainingPoints) - SUM(inputScores)) / SUM(remainingPoints) * currentPoint
+                                 ),
 
-                         IF(ISFORMULA(currentScore) * (label <> ""), calculation, "")
-                         )
-                    )
-               ),
-          ""
-          )
+                       IF(ISFORMULA(currentScore) * (label <> ""), calculation, "")
+                  )
+             )),
+        ""
      )
+)
