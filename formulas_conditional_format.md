@@ -14,45 +14,45 @@
 ```js
 // Manual Score Dettector
 Applied Cell
-  G1:G30
+  G1:G62
 Format
-  =NOT(ISFORMULA(G1))
+  =NOT(ISFORMULA(G1))*ISNUMBER(G1)
 
 
 // Reverse Calculator: Points Limit Detector 
 Applied Cell
-  F1:F30
+  F1:F50
 Format
   =OR(AND(ISNUMBER(F1),(F1>H1)),F1<0)
 
 
 // Reverse Calculator: Prediction Limit Detector
 Applied Cell (separately)
-  D32:D41
+  D52:D61
 Format
-=OR(D32>1,D32<0)
+  =OR(D52>1,D52<0)
 
 
 // Table Decoration: Percent Prediction to Category
 Applied Cell
-  D32:E41
+  D52:E61
 Format
-  =D32<>""
+  =D52<>""
 
 
 // Category-Score-Points Detector
 Applied Cell
-  E32:E41
-  F32:F41
-  G32:G41
-  H32:H41
+  E52:E61
+  F52:F61
+  G52:G61
+  H52:H61
 Format
-  =ISTEXT(E32)
+  =ISTEXT(E52)
 
 
 // Toggle Button Detector
 Applied Cell
-  F43
+  F63
 Format
-  =F42
+  =F62
 ```
