@@ -17,7 +17,7 @@
 
 <div align="right">
   
-[<img src=./images/Download%20Button.png height=50> ](https://github.com/Kyros0718/Grade_Pilot/releases/download/GradePilot_v1.0.0/GradePilot_v01.xlsx)
+[<img src=./images/Download%20Button.png height=50> ](https://github.com/Kyros0718/Grade_Pilot/releases/download/GradePilot_v1.1.0/GradePilot_v1.1.0.xlsx)
 
 </div>
 
