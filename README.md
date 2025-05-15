@@ -1,11 +1,5 @@
 # 𝗚𝗥𝗔𝗗𝗘 𝗣𝗜𝗟𝗢𝗧
-# HEAD 1
-## HEAD 2
-### HEAD 3
-#### HEAD 4
-##### HEAD 5
-###### HEAD 6
-NORMAL TEXT
+
 <table>
   <tr>
     <td width="500px" align="left">
@@ -23,7 +17,7 @@ NORMAL TEXT
 
 <div align="right">
   
-[<img src=./images/Download%20Button.png height=50> ](https://github.com/Kyros0718/Grade_Pilot/releases/download/GradePilot_v1.1.0/GradePilot_v1.1.0.xlsx)
+[<img src=./images/Download%20Button%20DLA.png height=50> ](https://github.com/Kyros0718/Grade_Pilot/releases/download/GradePilot_v1.1.0/GradePilot_v1.1.0.xlsx)
 
 </div>
 
