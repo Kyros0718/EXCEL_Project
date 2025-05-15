@@ -16,7 +16,7 @@
 
 <br>
 
-[<img src="./images/cw_-general_info-.png" height="20">](./panel_frontend.md)
+[<img src="./images/cw_general_info.png" height="25">](./panel_frontend.md)
 
 ****
 
@@ -25,7 +25,7 @@
 
 <br>
 
-[<img src="./images/cw_-color_schemes-.png" height="20">](./panel_frontend.md)
+[<img src="./images/cw_color_schemes.png" height="25">](./panel_frontend.md)
 
 ****
 

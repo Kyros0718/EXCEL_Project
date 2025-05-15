@@ -16,7 +16,7 @@
 
 <br>
 
-[<img src="./images/cw_-color_schemes-.png" height="20">](./panel_backend.md)
+[<img src="./images/cw_color_schemes.png" height="25">](./panel_backend.md)
 
 ****
 
@@ -25,7 +25,7 @@
 
 <br>
 
-[<img src="./images/cw_-formulas-.png" height="20">](./panel_backend.md)
+[<img src="./images/cw_formulas.png" height="25">](./panel_backend.md)
 
 ****
 
