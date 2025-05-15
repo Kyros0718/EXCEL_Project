@@ -16,18 +16,18 @@
 
 <br>
 
-[<img src="./images/cw_general_info.png" height="25">](./panel_frontend.md)
-
 ****
+
+[<img src="./images/cw_general_info.png" height="25">](./panel_frontend.md)
 
 - The GradeBook Table spans the Red to Yellow regions.
 - Grey cells are automatically populated via the **[Back End](./panel_backend.md)** and do not require manual editing.
 
 <br>
 
-[<img src="./images/cw_color_schemes.png" height="25">](./panel_frontend.md)
-
 ****
+
+[<img src="./images/cw_color_schemes.png" height="25">](./panel_frontend.md)
 
 **🔴 Assignments**
 > Ensure that the first word of each assignments is a consistent category name (e.g., LAB, QUIZ, HOMEWORK).
