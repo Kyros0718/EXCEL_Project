@@ -31,7 +31,7 @@
 
 ****
 
-### **Fully Autonomous Functionality**
+### 𝐅𝐔𝐋𝐋𝐘 𝐀𝐔𝐓𝐎𝐍𝐎𝐌𝐎𝐔𝐒 𝐅𝐔𝐍𝐂𝐓𝐈𝐎𝐍𝐀𝐋𝐈𝐓𝐘
 >- Just input your assignments — the system handles everything else.
 
 ### **Category Recognition & Generation**
