@@ -12,7 +12,7 @@
 </table>
 
 <div align="center">
-  <img src=./images/Grade%20Pilot%20Representation.png width=400>
+  <img src=./images/GradePilotRepresentation.png width=400>
 </div>
 
 <div align="right">
