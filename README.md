@@ -44,7 +44,7 @@
 >- Displays current grade percentage
 >- Predicts letter grade based on customizable scale
 
-### 𝖱𝖤𝖵𝖤𝖱𝖲𝖤 𝖦𝖱𝖠𝖣𝖤 𝖢𝖠𝖫𝖢𝖴𝖫𝖠𝖳𝖮𝖱
+### 𝗥𝗘𝗩𝗘𝗥𝗦𝗘 𝗚𝗥𝗔𝗗𝗘 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
 >- Choose a desired letter grade (e.g., B−)
 >- System calculates:
 >   - The required average percentage per category
