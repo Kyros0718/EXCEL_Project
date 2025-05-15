@@ -53,6 +53,6 @@
 > These reflect the calculated contribution of each assignment type (e.g., Exam, Quiz, Lab) toward the total grade.
 
 **⚫ Grade Predictions**
-Input the scores you believe you’ll get for future assignments here to simulate your final grade.
+> Input the scores you believe you’ll get for future assignments here to simulate your final grade.
 
 
