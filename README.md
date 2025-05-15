@@ -27,7 +27,7 @@
 
 <br>
 
-[<img src=./images/cw_key_features.png height=25>](./README.md)
+[<img src=./images/cw_-key_features-.png height=25>](./README.md)
 
 ****
 
@@ -52,7 +52,7 @@
 
 <br>
 
-[<img src=./images/cw_instructions.png height=20> ](./README.md)
+[<img src=./images/cw_-instructions-.png height=20> ](./README.md)
 
 ****
 
@@ -64,7 +64,7 @@
 
 <br>
 
-[<img src=./images/cw_resources.png height=20> ](./README.md)
+[<img src=./images/cw_-resources-.png height=20> ](./README.md)
 
 ****
 
