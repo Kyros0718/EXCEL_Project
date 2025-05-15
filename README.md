@@ -34,17 +34,17 @@
 ### 𝗙𝗨𝗟𝗟𝗬 𝗔𝗨𝗧𝗢𝗡𝗢𝗠𝗢𝗨𝗦 𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟𝗜𝗧𝗬
 >- Just input your assignments — the system handles everything else.
 
-### **Category Recognition & Generation**
+### 𝗖𝗔𝗧𝗘𝗚𝗢𝗥𝗬 𝗥𝗘𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗢𝗡 & 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗜𝗢𝗡
 >- Automatically detects and groups assignments by category (e.g., Exams, HW, Labs) with no manual tagging required.
 
-### **Average Score Calculation per Category**
+### 𝗔𝗩𝗘𝗥𝗔𝗚𝗘 𝗦𝗖𝗢𝗥𝗘 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗜𝗢𝗡 𝗣𝗘𝗥 𝗖𝗔𝗧𝗘𝗚𝗢𝗥𝗬
 >- Calculates real-time averages for each category with proportional weighting.
 
-### **Grade Estimation**
+### 𝗚𝗥𝗔𝗗𝗘 𝗘𝗦𝗧𝗜𝗠𝗔𝗧𝗜𝗢𝗡
 >- Displays current grade percentage
 >- Predicts letter grade based on customizable scale
 
-### **Reverse Grade Calculator**
+### 𝗥𝗘𝗩𝗘𝗥𝗦𝗘 𝗚𝗥𝗔𝗗𝗘 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥
 >- Choose a desired letter grade (e.g., B−)
 >- System calculates:
 >   - The required average percentage per category
