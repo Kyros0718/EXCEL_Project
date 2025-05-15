@@ -21,15 +21,13 @@
 
 </div>
 
-
 > Excel: Autonomous Grade Tracking, Forecasting, and Planning
-
 
 <br>
 
-[<img src=./images/cw_key_features.png height=30>](./README.md)
-
 ****
+
+[<img src=./images/cw_key_features.png height=30>](./README.md)
 
 ### 𝗙𝗨𝗟𝗟𝗬 𝗔𝗨𝗧𝗢𝗡𝗢𝗠𝗢𝗨𝗦 𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗔𝗟𝗜𝗧𝗬
 >- Just input your assignments — the system handles everything else.
@@ -52,9 +50,9 @@
 
 <br>
 
-[<img src=./images/cw_instructions.png height=25> ](./README.md)
-
 ****
+
+[<img src=./images/cw_instructions.png height=25> ](./README.md)
 
 > 1. Start with the [Front End](./panel_frontend.md) — this is where you’ll interact with the tool (e.g., entering assignments, scores, and selecting your desired grade).
 >
@@ -66,9 +64,9 @@
 
 <br>
 
-[<img src=./images/cw_resources.png height=25> ](./README.md)
-
 ****
+
+[<img src=./images/cw_resources.png height=25> ](./README.md)
 
 - Formulas: [Embedded](./formulas_embedded.md)
 - Formulas: [Conditional Formats](./formulas_conditional_format.md)
