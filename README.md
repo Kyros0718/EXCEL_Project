@@ -61,6 +61,7 @@
 > 3. For Setup: adjust the [GradeBook Table Range](./panel_backend.md#gradebook-range-semi-automatic-setup-required) to include all your assignments. This is the only part that may require manual scaling.
 
 ## Quick Demonstration
+
 <img src=./images/QuickDemoF.gif width=400>
 
 <br>
