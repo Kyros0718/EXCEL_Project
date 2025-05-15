@@ -16,18 +16,18 @@
 
 <br>
 
-[<img src="./images/cw_color_schemes.png" height="25">](./panel_backend.md)
-
 ****
+
+[<img src="./images/cw_color_schemes.png" height="25">](./panel_backend.md)
 
 - Every colored cell contains embedded formulas tied to its specific function.
 - Grey Cells are user-controlled inputs from the **[FrontEnd](./panel_frontend.md)** and should only be changed manually. 
 
 <br>
 
-[<img src="./images/cw_formulas.png" height="25">](./panel_backend.md)
-
 ****
+
+[<img src="./images/cw_formulas.png" height="25">](./panel_backend.md)
 
 ## GradeBook Range _(Semi-Automatic Setup Required)_
 > ⚠️ You must manually scale the range to cover all Assignment's: Task, Scores, and Points
