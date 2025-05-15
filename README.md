@@ -62,13 +62,13 @@
 >
 > 3. For Setup: adjust the [GradeBook Table Range](./panel_backend.md#gradebook-range-semi-automatic-setup-required) to include all your assignments. This is the only part that may require manual scaling.
 
+<img src=./images/Quick%20Demo.gif width=400>
+
 <br>
 
 [<img src=./images/cw_resources.png height=25> ](./README.md)
 
 ****
-
-<img src=./images/Quick%20Demo.gif width=400>
 
 - Formulas: [Embedded](./formulas_embedded.md)
 - Formulas: [Conditional Formats](./formulas_conditional_format.md)
