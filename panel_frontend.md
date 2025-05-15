@@ -32,7 +32,6 @@
 **🔴 Assignments**
 > Ensure that the first word of each assignments is a consistent category name (e.g., LAB, QUIZ, HOMEWORK).
 
-
 **🟠 Assignment Scores**
 > These cells are for manually entering the score earned for each assignment.
 
@@ -50,6 +49,10 @@
 **🟣 Button _(Toggle Reverse Calculation)_**
 > This controls the visibility of the Reverse Grade Calculator output.
 
+**🟤 Weighted Categories**
+> These reflect the calculated contribution of each assignment type (e.g., Exam, Quiz, Lab) toward the total grade.
 
+**⚫ Grade Predictions**
+Input the scores you believe you’ll get for future assignments here to simulate your final grade.
 
 
