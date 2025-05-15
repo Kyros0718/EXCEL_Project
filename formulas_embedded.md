@@ -92,6 +92,17 @@
 
 // {INDIGO} – Letter Grade Estimation
 =LET(
+     avgFinalScore, G62,
+     gradeSCale, A52:B60,
+     letterGrade, INDEX(gradeSCale,0,1),
+     gradingRubric, INDEX(gradeSCale,0,2),
+
+     XLOOKUP(avgFinalScore, gradingRubric, letterGrade, 0, -1)
+     )
+
+
+// {VIOLET} – Reverse Calculation For Desired Grade
+=LET(
      buttonToggle, F62,
      dataGradebookTable, INDIRECT(E63),
      rowLabels, IFERROR(TEXTBEFORE(INDEX(dataGradebookTable,,1), " "), ""),
