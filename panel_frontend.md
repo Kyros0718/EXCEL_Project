@@ -30,7 +30,7 @@
 ****
 
 **🔴 Assignments**
-> Ensure that the first word of each task is a consistent category name (e.g., HW, EXAM, QUIZ).
+> Ensure that the first word of each assignments is a consistent category name (e.g., LAB, QUIZ, HOMEWORK).
 
 
 **🟠 Assignment Scores**
