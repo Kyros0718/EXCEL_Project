@@ -11,7 +11,7 @@
 </table>
 
 <div align="center">
-<img src=./images/FrontEndColorSchemes.png width=400>
+<img src=./images/frontend_panel.png width=400>
 </div>
 
 <br>
