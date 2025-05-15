@@ -36,12 +36,12 @@
 > 
 > ✅ Designed to be easy to resize—just drag to include all rows
 > 
-> <img src=./images/blockRangeGradeBookTable.png >
+> <img src=./images/embedded_blockRangeGradeBookTable.png >
 
 ## Automatic Required Average Percentage per Generated Category
 > Shows how much % each category must contribute to reach "Desired Grade"
 > 
-> <img src=./images/desiredPercentage.png>
+> <img src=./images/embedded_desiredPercentage.png>
 
 
 ## Automatic Category Recognition & Generation
@@ -49,26 +49,26 @@
 >
 >🧩 Detects the first word of each assignment to generate its corresponding category
 >
-><img src=./images/assignementCategoryGenerator.png>
+><img src=./images/embedded_assignementCategoryGenerator.png>
 
 ## Automatic Average Score Calculation per Generatorated Category
 > Computes total average points earned from all assignment corresponding to their categegory
 >
-> <img src=./images/avgScoreGenerator.png>
+> <img src=./images/embedded_avgScoreGenerator.png>
 
 ## Average Numerical Grade Estimation
 > Calculates your total earned score and total possible points
 >
-> <img src=./images/totalScoreAndPoints.png>
+> <img src=./images/embedded_totalScoreAndPoints.png>
 
 ## Average Letter Grade Estimation
 > Converts numerical score into letter grade using inputed grade scale
 >
-> <img src=./images/letterGradeEstimation.png>
+> <img src=./images/embedded_letterGradeEstimation.png>
 
 ## Automatic Reverse Grade Calculator
 > Enter a target letter grade
 > 
 > Calculates required scores on future assignments to meet that grade
 >
-> <img src=./images/reverseScoreCalculator.png>
+> <img src=./images/embedded_reverseScoreCalculator.png>
