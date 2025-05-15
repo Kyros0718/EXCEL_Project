@@ -68,6 +68,8 @@
 
 ****
 
+<img src=./images/Quick%20Demo.gif width=400>
+
 - Formulas: [Embedded](./formulas_embedded.md)
 - Formulas: [Conditional Formats](./formulas_conditional_format.md)
 
