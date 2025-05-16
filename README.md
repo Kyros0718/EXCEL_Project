@@ -30,18 +30,14 @@
 [<img src=./images/cw_key_features.png height=30>](./README.md)
 
 ### Product Usage
-> Grade Estimation 
->
-> Grade Prediction
+> - Grade Estimation 
+> - Grade Prediction
  
 ### System Functions
-> Automatic Category Generator 
->
-> Automatic Category Score Calculator 
->
-> Adjustable Grading Scale 
->
-> Adjustable Grading Policy 
+> - Automatic Category Generator 
+> - Automatic Category Score Calculator 
+> - Adjustable Grading Scale 
+> - Adjustable Grading Policy 
 
 ****
 
