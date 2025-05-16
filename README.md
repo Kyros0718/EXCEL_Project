@@ -48,6 +48,8 @@
 >   - The required average percentage per category
 >   - The score needed on ungraded/missing assignments to meet that goal
 
+### Normal Text
+
 <br>
 
 ****
