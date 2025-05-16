@@ -29,20 +29,20 @@
 
 [<img src=./images/cw_key_features.png height=30>](./README.md)
 
-### 𝙵𝚞𝚕𝚕𝚢 𝙰𝚞𝚝𝚘𝚗𝚖𝚘𝚞𝚜 𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢
+### 𝖥𝗎𝗅𝗅𝗒 𝖠𝗎𝗍𝗈𝗇𝗆𝗈𝗎𝗌 𝖥𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖺𝗅𝗂𝗍𝗒
 >- Just input your assignments — the system handles everything else.
 
-### 𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢 𝚁𝚎𝚌𝚘𝚐𝚗𝚒𝚝𝚒𝚘𝚗 & 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗
+### 𝖢𝖺𝗍𝖾𝗀𝗈𝗋𝗒 𝖱𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 & 𝖦𝖾𝗇𝖾𝗋𝖺𝗍𝗂𝗈𝗇
 >- Automatically detects and groups assignments by category (e.g., Exams, HW, Labs) with no manual tagging required.
 
-### 𝙰𝚟𝚎𝚛𝚊𝚐𝚎 𝚂𝚌𝚘𝚛𝚎 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚒𝚘𝚗 𝙿𝚎𝚛 𝙲𝚊𝚝𝚎𝚐𝚘𝚛𝚢
+### 𝖠𝗏𝖾𝗋𝖺𝗀𝖾 𝖲𝖼𝗈𝗋𝖾 𝖢𝖺𝗅𝖼𝗎𝗅𝖺𝗍𝗂𝗈𝗇 𝖯𝖾𝗋 𝖢𝖺𝗍𝖾𝗀𝗈𝗋𝗒
 >- Calculates real-time averages for each category with proportional weighting.
 
-### 𝙶𝚛𝚊𝚍𝚎 𝙴𝚜𝚝𝚒𝚖𝚊𝚝𝚒𝚘𝚗
+### 𝖦𝖱𝖠𝖣𝖤 𝖤𝖲𝖳𝖨𝖬𝖠𝖳𝖨𝖮𝖭
 >- Displays current grade percentage
 >- Predicts letter grade based on customizable scale
 
-### 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙶𝚛𝚊𝚍𝚎 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛
+### 𝖱𝖤𝖵𝖤𝖱𝖲𝖤 𝖦𝖱𝖠𝖣𝖤 𝖢𝖠𝖫𝖢𝖴𝖫𝖠𝖳𝖮𝖱
 >- Choose a desired letter grade (e.g., B−)
 >- System calculates:
 >   - The required average percentage per category
