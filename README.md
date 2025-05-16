@@ -1,5 +1,8 @@
 # EXCEL GRADING ASSISTANT
-
+# 𝙴𝚇𝙲𝙴𝙻 𝙶𝚁𝙰𝙳𝙸𝙽𝙶 𝙰𝚂𝚂𝙸𝚂𝚃𝙰𝙽𝚃
+# 𝐄𝐗𝐂𝐄𝐋 𝐆𝐑𝐀𝐃𝐈𝐍𝐆 𝐀𝐒𝐒𝐈𝐒𝐓𝐀𝐍𝐓
+# 𝖤𝖷𝖢𝖤𝖫 𝖦𝖱𝖠𝖣𝖨𝖭𝖦 𝖠𝖲𝖲𝖨𝖲𝖳𝖠𝖭𝖳
+# 𝗘𝗫𝗖𝗘𝗟 𝗚𝗥𝗔𝗗𝗜𝗡𝗚 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗧
 
 
 Excel: Autonomous Grade Tracking, Forecasting, and Planning
