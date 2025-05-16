@@ -32,6 +32,7 @@
 ### Product Usage
 > - Grade Estimation 
 > - Grade Prediction
+> - Grade Objective Guidance
  
 ### System Functions
 > - Automatic Category Generator 
