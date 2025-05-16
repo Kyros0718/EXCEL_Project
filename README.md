@@ -1,5 +1,7 @@
 # 𝗚𝗥𝗔𝗗𝗘 𝗣𝗜𝗟𝗢𝗧 
 
+> Excel: Autonomous Grade Tracking, Forecasting, and Planning
+
 <table>
   <tr>
     <td width="500px" align="left">
@@ -20,8 +22,6 @@
 [<img src=./images/Download%20Button%20LDA.png height=60> ](https://github.com/Kyros0718/Grade_Pilot/releases/download/GradePilot_v1.1.0/GradePilot_v1.1.0.xlsx)
 
 </div>
-
-> Excel: Autonomous Grade Tracking, Forecasting, and Planning
 
 <br>
 
