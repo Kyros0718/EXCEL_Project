@@ -1,4 +1,4 @@
-# 𝗚𝗥𝗔𝗗𝗘 𝗣𝗜𝗟𝗢𝗧 
+# EXCEL GRADING ASSISTANT
 
 > Excel: Autonomous Grade Tracking, Forecasting, and Planning
 
