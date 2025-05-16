@@ -38,11 +38,11 @@
 ### 𝖠𝗏𝖾𝗋𝖺𝗀𝖾 𝖲𝖼𝗈𝗋𝖾 𝖢𝖺𝗅𝖼𝗎𝗅𝖺𝗍𝗂𝗈𝗇 𝖯𝖾𝗋 𝖢𝖺𝗍𝖾𝗀𝗈𝗋𝗒
 >- Calculates real-time averages for each category with proportional weighting.
 
-### 𝖦𝖱𝖠𝖣𝖤 𝖤𝖲𝖳𝖨𝖬𝖠𝖳𝖨𝖮𝖭
+### Grade Estimation
 >- Displays current grade percentage
 >- Predicts letter grade based on customizable scale
 
-### 𝖱𝖤𝖵𝖤𝖱𝖲𝖤 𝖦𝖱𝖠𝖣𝖤 𝖢𝖠𝖫𝖢𝖴𝖫𝖠𝖳𝖮𝖱
+### Reverse Grade Calculator
 >- Choose a desired letter grade (e.g., B−)
 >- System calculates:
 >   - The required average percentage per category
