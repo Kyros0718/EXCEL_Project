@@ -29,13 +29,13 @@
 
 [<img src=./images/cw_key_features.png height=30>](./README.md)
 
-### 𝖥𝗎𝗅𝗅𝗒 𝖠𝗎𝗍𝗈𝗇𝗆𝗈𝗎𝗌 𝖥𝗎𝗇𝖼𝗍𝗂𝗈𝗇𝖺𝗅𝗂𝗍𝗒
+### Fully Autonmous Functionality
 >- Just input your assignments — the system handles everything else.
 
-### 𝖢𝖺𝗍𝖾𝗀𝗈𝗋𝗒 𝖱𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 & 𝖦𝖾𝗇𝖾𝗋𝖺𝗍𝗂𝗈𝗇
+### Category Recognition & Generation
 >- Automatically detects and groups assignments by category (e.g., Exams, HW, Labs) with no manual tagging required.
 
-### 𝖠𝗏𝖾𝗋𝖺𝗀𝖾 𝖲𝖼𝗈𝗋𝖾 𝖢𝖺𝗅𝖼𝗎𝗅𝖺𝗍𝗂𝗈𝗇 𝖯𝖾𝗋 𝖢𝖺𝗍𝖾𝗀𝗈𝗋𝗒
+### Averages Score Calculation Per Category
 >- Calculates real-time averages for each category with proportional weighting.
 
 ### Grade Estimation
