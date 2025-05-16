@@ -29,15 +29,20 @@
 
 [<img src=./images/cw_key_features.png height=30>](./README.md)
 
-1. Fully Autonmous Functionality
+### Product Usage
+> Grade Estimation 
 
-2. Category Recognition & Generation
+> Grade Prediction
+ 
+### System Functions
+> Automatic Category Generator 
 
-3. Averages Score Calculation Per Category
+> Automatic Category Score Calculator 
 
-4. Automatic Grade Estimation
+> Adjustable Grading Scale 
 
-5. Reverse Grade Calculator
+> Adjustable Grading Policy 
+
 ****
 
 [<img src=./images/cw_instructions.png height=25> ](./README.md)
