@@ -29,15 +29,15 @@
 
 [<img src=./images/cw_key_features.png height=30>](./README.md)
 
-### Fully Autonmous Functionality
+1. Fully Autonmous Functionality
 
-### Category Recognition & Generation
+2. Category Recognition & Generation
 
-### Averages Score Calculation Per Category
+3. Averages Score Calculation Per Category
 
-### Autonmous Grade Estimation
+4. Autonmous Grade Estimation
 
-### Reverse Grade Calculator
+5. Reverse Grade Calculator
 ****
 
 [<img src=./images/cw_instructions.png height=25> ](./README.md)
