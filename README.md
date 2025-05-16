@@ -35,7 +35,7 @@
 
 3. Averages Score Calculation Per Category
 
-4. Autonmous Grade Estimation
+4. Automatic Grade Estimation
 
 5. Reverse Grade Calculator
 ****
