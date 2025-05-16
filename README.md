@@ -48,12 +48,6 @@
 >   - The required average percentage per category
 >   - The score needed on ungraded/missing assignments to meet that goal
 
-### Normal Text
-
-### NORMALITY
-
-<br>
-
 ****
 
 [<img src=./images/cw_instructions.png height=25> ](./README.md)
