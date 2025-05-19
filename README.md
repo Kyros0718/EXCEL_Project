@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td width="500px" align="right">
+    <td width="500px" align="left">
       <a href="./README.md">𝗠𝗔𝗜𝗡 𝗣𝗔𝗚𝗘</a>
     </td>
     <td width="500px" align="left">
