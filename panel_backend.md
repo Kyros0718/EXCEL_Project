@@ -4,11 +4,14 @@
 
 <table>
   <tr>
-    <td width="500px" align="left">
+    <td width="400px" align="left">
+      <a href="./README.md">𝗠𝗔𝗜𝗡 𝗣𝗔𝗚𝗘</a>
+    </td>
+    <td width="400px" align="left">
       <a href="./panel_frontend.md">𝗙𝗥𝗢𝗡𝗧 𝗘𝗡𝗗</a>
     </td>
-    <td width="500px" align="right">
-      <a href="./README.md">𝗠𝗔𝗜𝗡 𝗣𝗔𝗚𝗘</a>  
+    <td width="400px" align="left">
+      <a href="./panel_backend.md">𝗕𝗔𝗖𝗞 𝗘𝗡𝗗</a>
     </td>
   </tr>
 </table>
