@@ -4,17 +4,14 @@
 
 <table>
   <tr>
-    <td width="150px" align="left">
+    <td width="300px" align="left">
       <a href="./README.md">𝗠𝗔𝗜𝗡 𝗣𝗔𝗚𝗘</a>
     </td>
-    <td width="150px" align="left">
+    <td width="300px" align="left">
       <a href="./panel_frontend.md">𝗙𝗥𝗢𝗡𝗧 𝗘𝗡𝗗</a>
     </td>
-    <td width="150px" align="left">
+    <td width="300px" align="left">
       <a href="./panel_backend.md">𝗕𝗔𝗖𝗞 𝗘𝗡𝗗</a>
-    </td>
-    <td width="550px" align="left">
-      <a></a>
     </td>
   </tr>
 </table>
