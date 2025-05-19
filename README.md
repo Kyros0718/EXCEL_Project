@@ -1,6 +1,6 @@
 # 𝐄𝐗𝐂𝐄𝐋 𝐆𝐑𝐀𝐃𝐈𝐍𝐆 𝐀𝐒𝐒𝐈𝐒𝐓𝐀𝐍𝐓
 
-Autonomous Excel Grade Planner, Tracker, and Guidance 
+> Autonomous Excel Grade Planner, Tracker, and Guidance 
 
 <table>
   <tr>
