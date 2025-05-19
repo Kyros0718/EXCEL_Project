@@ -17,9 +17,7 @@
 </table>
 
 <div align="center">
- 
-<img src= ./images/backend_panel.png width=400>
-
+ <img src= ./images/backend_panel.png width=400>
 </div>
 
 <br>
