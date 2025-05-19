@@ -4,13 +4,13 @@
 
 <table>
   <tr>
-    <td width="300px" align="left">
+    <td width="330px" align="left">
       <a href="./README.md">𝗠𝗔𝗜𝗡 𝗣𝗔𝗚𝗘</a>
     </td>
-    <td width="300px" align="left">
+    <td width="330px" align="left">
       <a href="./panel_frontend.md">𝗙𝗥𝗢𝗡𝗧 𝗘𝗡𝗗</a>
     </td>
-    <td width="300px" align="left">
+    <td width="330px" align="left">
       <a href="./panel_backend.md">𝗕𝗔𝗖𝗞 𝗘𝗡𝗗</a>
     </td>
   </tr>
